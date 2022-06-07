@@ -1,3 +1,15 @@
+/***********************************************************************
+ * @file        md5_check.c
+ * @brief       c file
+ * @history
+ * Date         Version Author    description
+ * ========== ======= ========= =======================================
+ * 2021-05-11 V1.0    weihui.jia   Create
+ *
+ * @Copyright (C)  2020  dixin.Co.Ltd all right reserved
+***********************************************************************/
+/*@{*/
+
 #include "bsl.h"
 #include "stdio.h"
 #include <fcntl.h>
